@@ -74,6 +74,8 @@ gem 'stripe'
 
 gem 'ranked-model'
 
+gem "font-awesome-rails"
+
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
 end
